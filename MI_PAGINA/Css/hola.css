@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+html
+{
+    height: 100%;
+}
+
+body
+{
+    height: 100%;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Alkalami', serif;
+}
+
+.Cajita
+{
+    max-width: 750px;
+    background: firebrick;
+    padding: 15px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px green;
+    color: gray;
+    text-align: center;
+}
+
+button
+{
+    width: 100%;
+    border: none;
+    padding: 30px;
+    font-size: 25px;
+    border-radius: 40px;
+    background-color: darkgreen;
+}
